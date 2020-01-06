@@ -4,7 +4,7 @@ VeriClouds is a credential verification service that helps organizations detect 
 
 VeriClouds Solution Accelerator demonstrates the VeriClouds CredVerify API integration into the password validation rule of One Identity Manager.
 
-Working with Solution Accelerator:
+Working with the Solution Accelerator:
 
 In your environment, you will need to import the VeriClouds Solution Accelerator transport package and configure the 2 customs configuration parameters with the following values:
 

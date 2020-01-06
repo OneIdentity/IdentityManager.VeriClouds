@@ -4,6 +4,7 @@ VeriClouds Solution Accelerator demonstrates the VeriClouds credVerify API integ
 In your environment, you will need to import the VeriClouds Solution Accelerator transport package and configure the 2 customs configuration parameters with the following values:
 
 Custom\credVerify\APIKey = "Api Key name"  (obtained from the Vendor specific to your organization)
+
 Custom\credVerify\APISecret = "Api Secret" (obtained from the vendor specific to your organization)
 
 Then add the script SDK_CredVerify_ValidatePassword to a password policy of choice. For example; to the One Identity Manager password policy (used for System User passwords and the Employee based authenticators) or the Password policy for central password of employees.
